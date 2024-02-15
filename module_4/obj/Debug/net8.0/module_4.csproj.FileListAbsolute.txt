@@ -1,0 +1,15 @@
+C:\Users\Niki\source\repos\skillmodule3\module_4\module_4\bin\Debug\net8.0\module_4.exe
+C:\Users\Niki\source\repos\skillmodule3\module_4\module_4\bin\Debug\net8.0\module_4.deps.json
+C:\Users\Niki\source\repos\skillmodule3\module_4\module_4\bin\Debug\net8.0\module_4.runtimeconfig.json
+C:\Users\Niki\source\repos\skillmodule3\module_4\module_4\bin\Debug\net8.0\module_4.dll
+C:\Users\Niki\source\repos\skillmodule3\module_4\module_4\bin\Debug\net8.0\module_4.pdb
+C:\Users\Niki\source\repos\skillmodule3\module_4\module_4\obj\Debug\net8.0\module_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niki\source\repos\skillmodule3\module_4\module_4\obj\Debug\net8.0\module_4.AssemblyInfoInputs.cache
+C:\Users\Niki\source\repos\skillmodule3\module_4\module_4\obj\Debug\net8.0\module_4.AssemblyInfo.cs
+C:\Users\Niki\source\repos\skillmodule3\module_4\module_4\obj\Debug\net8.0\module_4.csproj.CoreCompileInputs.cache
+C:\Users\Niki\source\repos\skillmodule3\module_4\module_4\obj\Debug\net8.0\module_4.sourcelink.json
+C:\Users\Niki\source\repos\skillmodule3\module_4\module_4\obj\Debug\net8.0\module_4.dll
+C:\Users\Niki\source\repos\skillmodule3\module_4\module_4\obj\Debug\net8.0\refint\module_4.dll
+C:\Users\Niki\source\repos\skillmodule3\module_4\module_4\obj\Debug\net8.0\module_4.pdb
+C:\Users\Niki\source\repos\skillmodule3\module_4\module_4\obj\Debug\net8.0\module_4.genruntimeconfig.cache
+C:\Users\Niki\source\repos\skillmodule3\module_4\module_4\obj\Debug\net8.0\ref\module_4.dll
